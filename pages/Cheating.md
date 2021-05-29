@@ -1,1 +1,3 @@
-- See also [[Contract cheating]]
+- See also:
+	- [[Contract cheating]]
+	- [[Academic integrity]]
