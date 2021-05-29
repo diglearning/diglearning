@@ -1,2 +1,3 @@
 - Twitter: https://twitter.com/edtechdev
-- Blog:
+- Blog: https://doug.holton.space/
+-
