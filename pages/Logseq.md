@@ -1,1 +1,2 @@
-- **Documentation
+- [Logseq Help Manual](https://logseq.github.io/page/publishing#/page/Contents)
+-
