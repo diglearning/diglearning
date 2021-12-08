@@ -80,5 +80,6 @@
  :markdown/version 2
  
  :all-pages-public? true
+ :favorites []
  
  }
