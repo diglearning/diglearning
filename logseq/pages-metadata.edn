@@ -1,225 +1,225 @@
 [{:block/name "a",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "academic integrity",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "adolescent psychology",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "annotation",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "annotation tools",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "anti-racism",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "assessment",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "authentic assessment",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "b",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "bibliography",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "book",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "c",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "canvas",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "card",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "change management",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "cheating",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "chegg",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "closedaccess",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "color blindness",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "competency based learning",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "conceptual change",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "constructive criticism",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "contents",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "contract cheating",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "dec 7th, 2021",
-  :block/created-at 1638835200000,
-  :block/updated-at 1638835200000}
+  :block/created-at 1638907632503,
+  :block/updated-at 1638908602101}
  {:block/name "decolonizing education",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "dei",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "designing exams",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "diglearning",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "discrimination",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "diversity",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "doing",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "done",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "doug holton",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "draws",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "draws/2021-05-29-18-14-13.excalidraw",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "edge browser",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "edtech",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "education reform",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "embodied cognition",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "embodied learning",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "employee motivation",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "engineering education",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "equity",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "evaluation",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "evaluation of teaching",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "fatigue",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "favorites",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "feedback",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "first generation students",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "flipped learning",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "gaslighting",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "gatekeeping",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "github",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "google drive",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "high-impact practices",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "hypothesis",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "icap framework",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "in-progress",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "inclusion",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "inclusive teaching",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "ipad",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "jun 12th, 2021",
-  :block/created-at 1623456000000,
-  :block/updated-at 1623456000000}
+  :block/created-at 1638907889983,
+  :block/updated-at 1638907889983}
  {:block/name "jun 29th, 2021",
   :block/created-at 1624924800000,
   :block/updated-at 1624924800000}
  {:block/name "later",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "learning management systems",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "learning sciences",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "library",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "lifelong learning",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "listening",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "logical fallacies",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "logseq",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "lti integration",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "management",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "may 28th, 2021",
   :block/created-at 1622160000000,
   :block/updated-at 1622160000000}
@@ -230,188 +230,188 @@
   :block/created-at 1622332800000,
   :block/updated-at 1622332800000}
  {:block/name "micro-credentials",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "microcredentials",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "mindfulness",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "motivation",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "neoliberalism in higher education",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "neuroscience",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "note-taking",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "now",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "objectivity",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "onedrive",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "online learning",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "open source",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "open textbooks",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "openaccess",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "oppression",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "pdf",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "performativity",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "perusall",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "phet",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "praise",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "problem solving",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "psychology",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "publishing logseq notes with github pages on windows",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "quote",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "racism",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "reading",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "readme",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "reference",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "research-practice gap",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "self-compassion",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "sep 2nd, 2021",
-  :block/created-at 1630540800000,
-  :block/updated-at 1630540800000}
+  :block/created-at 1638907886889,
+  :block/updated-at 1638907886889}
  {:block/name "service learning",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "simulations",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "social science",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "statistical significance",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "statistics",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "student success",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "students as partners",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "teaching biology",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "teaching chemistry",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "teaching writing",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "test scores",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "tests",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "tiddlywiki",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "todo",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "underrepresented students",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "value of higher education",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "video",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "voice",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "wait",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "waiting",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "web share target",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "weird",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "well-being",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "white fragility",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "whiteness studies",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "wiki",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "windows",
-  :block/created-at 1638907580882,
-  :block/updated-at 1638907580882}
+  :block/created-at 1638909944983,
+  :block/updated-at 1638909944983}
  {:block/name "windows os",
-  :block/created-at 1638907580884,
-  :block/updated-at 1638907580884}
+  :block/created-at 1638909944986,
+  :block/updated-at 1638909944986}
  {:block/name "workplace",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "zettelkasten",
-  :block/created-at 1638907580883,
-  :block/updated-at 1638907580883}
+  :block/created-at 1638909944984,
+  :block/updated-at 1638909944984}
  {:block/name "zoom",
-  :block/created-at 1638907580884, 
-  :block/updated-at 1638907580884}]
+  :block/created-at 1638909944986, 
+  :block/updated-at 1638909944986}]
